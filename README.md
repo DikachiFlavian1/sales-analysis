@@ -6,9 +6,10 @@ Plain-language documentation of a simple sales analysis with linked data files a
 - [SalesAnalysis..csv](./sales-Analysis/SalesAnalysis..csv)
 - [SimpleSalesReport .xlsx](./sales-Analysis/SimpleSalesReport%20.xlsx)
 
+
 ### Visual
 ![Sales overview](./sales-Analysis/sales.png)
-
+![Sales overviews](https://i.imgur.com/596bJNk.png)
 ### What this includes
 - A CSV and an Excel workbook containing the raw/cleaned sales data
 - A single image summarizing the key visual from the analysis
