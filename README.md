@@ -10,6 +10,7 @@ Plain-language documentation of a simple sales analysis with linked data files a
 ### Visual
 ![Sales overview](./sales-Analysis/sales.png)
 ![Sales overviews](https://i.imgur.com/596bJNk.png)
+<img src="https://i.imgur.com/596bJNk.png" alt="Sales overviews" width="500"/>
 ### What this includes
 - A CSV and an Excel workbook containing the raw/cleaned sales data
 - A single image summarizing the key visual from the analysis
