@@ -3,11 +3,11 @@
 Plain-language documentation of a simple sales analysis with linked data files and an embedded image. No Python/Jupyter required.
 
 ### Data Files
-- [SalesAnalysis..csv](sales-Analysis/SalesAnalysis..csv)
-- [SimpleSalesReport .xlsx](sales-Analysis/SimpleSalesReport%20.xlsx)
+- [SalesAnalysis..csv](./sales-Analysis/SalesAnalysis..csv)
+- [SimpleSalesReport .xlsx](./sales-Analysis/SimpleSalesReport%20.xlsx)
 
 ### Visual
-![Sales overview](sales-Analysis/sales.png)
+![Sales overview](./sales-Analysis/sales.png)
 
 ### What this includes
 - A CSV and an Excel workbook containing the raw/cleaned sales data
