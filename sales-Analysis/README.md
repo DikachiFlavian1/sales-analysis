@@ -10,23 +10,32 @@ Plain-language documentation of a simple sales analysis with linked data files a
 ![Sales overview](./sales.png)
 
 #### Key insights
-- Revenue trend: identify growth/decline periods and seasonality (e.g., month/quarter spikes).
-- Product mix: top-selling items drive most revenue; investigate long-tail products for bundling or pruning.
-- Customers: a small set of buyers likely generate disproportionate revenue; consider tiered benefits for high-LTV segments.
-- Regions/channels: performance varies; double down on high-ROI regions/channels and fix or exit underperformers.
-- Pricing/discounts: heavy discount windows lift volume but can compress margins; test smaller, targeted promotions.
+- 📉 Net sales vs budget (Jun 1–10): ~11.21M actual vs ~18.88M budget (~59% to plan; ~7.67M shortfall).
+- 🚶‍♂️ Traffic gap: avg transactions 177/day vs budget 316/day (~56% of plan).
+- 🧺 Basket strength: SPT averages ~6,958 vs budget ~6,037 (+15%). Basket value is healthy; traffic is the constraint.
+- 🔝 Best day: Fri 2025-06-06 with ~1.65M net (228 transactions, SPT ~8,013). Weakest: Mon 2025-06-02 with ~0.77M.
+- 🌐 Online share is small: ~287k online net over the period (~2.6% of total). Biggest online lift on 2025-06-01 (~6% of day’s net).
+- 📆 Seasonality: Weekends (Sun 6/1, Fri 6/6, Sat 6/7) outperform weekdays; plan promos and staffing accordingly.
 
 #### Business recommendations
-- Pricing: run A/B tests on key SKUs (good/better/best tiers); avoid blanket discounts.
-- Product strategy: bundle complementary products; discontinue persistently low-velocity SKUs.
-- Retention: launch lifecycle emails and win-back offers; measure repeat rate and churn by cohort.
-- Channel strategy: shift spend to top-converting channels; pause low-ROI campaigns.
-- Forecasting & inventory: use recent trend/seasonality to set reorder points and safety stock.
+- 🎯 Drive transactions: shift budget to footfall and awareness. Target +30–40% transactions; preserve SPT tactics that work.
+- 🧩 Smart promos: avoid blanket discounts. Use bundles/add-ons; schedule midweek boosters to lift trough days.
+- 🔀 Channel growth: expand online from ~2.6% to 5–8% via paid search, retargeting, and click-and-collect; monitor CAC vs margin.
+- 🧭 Re-forecast: reset transaction budgets closer to current run-rate; set stretch on traffic, not ticket size.
+- 🗂️ Operations: align inventory and staffing to peaks (Fri–Sun) and use daily forecasts for ordering and scheduling.
 
 #### KPIs to track
-- Total revenue, gross margin, average order value (AOV)
-- Repeat purchase rate, customer lifetime value (LTV)
-- Conversion rate by channel/region, return rate
+- 💰 Total net revenue, gross margin, AOV/SPT
+- 🔁 Transactions, conversion rate, repeat rate
+- 🌐 Online share of sales, promo lift, return rate
+
+Data quality note
+- ⚠️ The CSV’s “TOTAL NET SALES” for 2025-06-08 is likely miscalculated (~22.8k vs ~1.20M expected = store net 1,180,828.83 + online 22,612.61). Please correct the formula upstream before reporting.
+
+---
+**Author**: Kachi Flavian  
+**Contact**: +2349021330176  
+**Email**: chuksoflavian@gmail.com
 
 ### What this includes
 - A CSV and an Excel workbook containing the raw/cleaned sales data
