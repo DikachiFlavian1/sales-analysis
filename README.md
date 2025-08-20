@@ -30,7 +30,7 @@ Plain-language documentation of a simple sales analysis with linked data files a
 - 🌐 Online share of sales, promo lift, return rate
 
 Data quality note
-- ⚠️ The CSV’s “TOTAL NET SALES” value for 2025-06-08 appears miscalculated (~22.8k vs ~1.20M expected = store net 1,180,828.83 + online 22,612.61). Please correct the source formula before reporting. 
+- ✅ June 8 total net is now corrected to ~1,203,441.44 (store net 1,180,828.83 + online 22,612.61). Charts and reporting should reflect ≈ 1.20M for 2025-06-08.
 
 ### What this includes
 - A CSV and an Excel workbook containing the raw/cleaned sales data
